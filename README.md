@@ -11,6 +11,8 @@ php artisan db:seed
 
 For running the tests, open the console and run:
 
-```php artisan test```
+```
+php artisan test
+```
 
 Enjoy! :)
