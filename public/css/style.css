@@ -1,0 +1,75 @@
+body {
+    margin: 40px 0 7em;
+}
+
+.mt20 {
+    margin-top: 20px;
+}
+
+.mtb1 {
+    margin: 1px 0;
+}
+
+.txt-small {
+    font-size: 80%;
+}
+
+.bd1 {
+    border: 1px solid #d5d5d5;
+}
+
+.bdt1 {
+    border-top: 1px solid #d5d5d5;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.nav-pills .nav-link:hover {
+    color: #000;
+}
+
+.nav-pills .nav-link.active:hover {
+    color: #fff;
+}
+
+.fixed-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #f1f1f1;
+}
+
+td {
+    vertical-align: middle;
+}
+
+.btn {
+    padding-top: .24rem;
+}
+
+.btn.btn-sm {
+    padding-top: .1rem;
+    font-size: .8rem;
+}
+
+.m0 {
+    margin: 0;
+}
+
+.list-group-item {
+    padding: 1rem 0;
+}
+
+.loading {
+    opacity: 0.95;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.link:hover {
+    color: #000;
+}
